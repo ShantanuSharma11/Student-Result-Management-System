@@ -1,3 +1,10 @@
+![Screenshot (21)](https://github.com/ShantanuSharma11/Student-Result-Management-System/assets/97371684/595b5ef6-83a1-4ef5-b688-522700993adc)
+![Screenshot (22)](https://github.com/ShantanuSharma11/Student-Result-Management-System/assets/97371684/1b91436e-d3b0-4cb3-b3a7-454b475ff3a6)
+![Screenshot (23)](https://github.com/ShantanuSharma11/Student-Result-Management-System/assets/97371684/e743386e-1363-498f-a108-fdc324fe96f4)
+
+
+
+
 # Student-Result-Management-System
 #  Student Result Management System
 
